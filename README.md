@@ -1,1 +1,1 @@
-# hse21_H3K27ac_G4_human_team
+# hse21_H3K27ac_G4_human_group
